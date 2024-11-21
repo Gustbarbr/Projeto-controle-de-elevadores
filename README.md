@@ -45,3 +45,8 @@ regularizada.
 controladores.
 ## Aonde consultar e visualizar os diagramas
 * Todos os diagramas em UML podem ser encontrados acessando nossa [wiki](https://github.com/Gustbarbr/Projeto-controle-de-elevadores/wiki).
+## Integrantes
+- Diego Meira Jardim (RA: 24.122.094-6)
+- Gustavo Gomes Barbosa (RA: 24.122.061-5)
+- Lucas Antunes Sampaio (RA: 24.122.056-5)
+- Rômulo Carneiro de Oliveira Canavesso (RA: 24.122.093-8)
